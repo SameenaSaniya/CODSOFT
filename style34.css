@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    background-image: url("https://miro.medium.com/v2/resize:fit:1358/1*CSVt8zHeY_kvT_ci0WbV9w.jpeg");
+  }
+  
+  .container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .controls {
+    margin-top: 20px;
+  }
+  
+  .actions {
+    margin-top: 20px;
+  }
+  
+  .btn {
+    padding: 10px 20px;
+    margin: 0 5px;
+    cursor: pointer;
+  }
+  
+  .time {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
